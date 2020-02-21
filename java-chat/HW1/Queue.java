@@ -18,7 +18,6 @@
 // Note that if the queue is empty, calls to get will block the calling thread,
 // until something is put into the queue.
 
-
 import java.util.LinkedList;
 import java.util.List;
 

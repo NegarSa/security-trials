@@ -22,7 +22,6 @@
 // If you want more fancy stuff like padding or cipher modes, you'll have
 // to do them yourself, presumably by defining new classes that use this one.
 
-
 public class BlockCipher {
     public static final int BlockSizeWords = 2;   // do NOT change this
     public static final int BlockSize = 4 * BlockSizeWords;

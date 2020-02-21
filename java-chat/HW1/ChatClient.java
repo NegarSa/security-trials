@@ -4,7 +4,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 import java.io.IOException;
 
-
 public class ChatClient {
   public ChatClient(String username,
 		    String serverHost, int serverPort,

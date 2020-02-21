@@ -30,7 +30,6 @@
 // You can also call reset() on a HashFunction if you want to reset it.
 
 
-
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
