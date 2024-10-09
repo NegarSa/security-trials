@@ -1,2 +1,4 @@
 # security-trials
-Homeworks and projects for my Network Security and Secure Software Developement courses.
+Projects on network security and secure sofware developement.
+- Secure chat program in Java
+- Protecting a connection from various attacks and an implementation of key exchange
